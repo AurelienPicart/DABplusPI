@@ -1,2 +1,2 @@
 # DABplusPI
-Full DAB+ transmitter for PI
+Full DAB+ transmitter chain for RaspberryPI
